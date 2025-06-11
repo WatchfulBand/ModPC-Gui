@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ModPC Gui (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ModPC Gui (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
